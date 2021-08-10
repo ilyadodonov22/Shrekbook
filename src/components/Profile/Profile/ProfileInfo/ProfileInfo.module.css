@@ -1,0 +1,16 @@
+.img {
+    width: 100%;
+    height: 400px;
+  }
+  .ava_disc {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 400px 400px;
+  }
+  .ava_disc img {
+    width: 400px;
+  }
+  .discription {
+    padding-left: 40px;
+    font-size: 20px;
+  }

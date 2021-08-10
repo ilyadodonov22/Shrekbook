@@ -1,0 +1,24 @@
+.nav {
+    grid-area: nav;
+    background-color: rgba(109, 76, 15, 0.993);
+  }
+.item {
+  margin-top: 20px;
+  font-size: 20px;
+  font-style: italic;
+  padding: 10px 100px;
+  color: rgb(194, 248, 0);
+}
+.item a {
+  color: rgb(194, 248, 0);
+  text-decoration: none;
+}
+.item :hover {
+  color: rgb(255, 255, 255);
+}
+.item a.active {
+  color: rgb(255, 255, 255);
+}
+.app-wrapper-content {
+  background-color: antiquewhite;
+}
